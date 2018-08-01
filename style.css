@@ -1,0 +1,69 @@
+h1 {
+  color: red;
+}
+h2 {
+  color: red;
+  font-size: 20px;
+  font-family: arial;
+}
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: #EBEBEB;
+  font-weight: 300; /* if you want the light version */
+  color: #7d7d7d;
+  font-size: 15px;
+  line-height: 1.6em;
+}
+.container {
+  width: 500px;
+  margin: 30px auto;
+}
+.card {
+  text-align: center;
+  background: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+}
+img {
+  width: 150px;
+}
+a{
+  color: #ccc;
+  text-decoration: none;
+    text-decoration-line: none;
+    text-decoration-style: solid;
+    text-decoration-color: currentColor;
+}
+a:hover {
+  color: red;
+}
+element {
+
+}
+.btn-red {
+  background-color: #DD5555;
+  color: withe;
+  font-weight: 500;
+  padding: 10px;
+  border-radius: 4px;
+}
+.list-inline {
+  padding-left: 0;
+}
+.list-inline li{
+  display: inline-block;
+  padding: 20px;
+}
+.list-inline li i {
+  font-size: 25px;
+}
+#movies {
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 1.6em;
+}
+#movies td {
+  padding: 20px;
+}
